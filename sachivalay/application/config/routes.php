@@ -85,5 +85,7 @@ $route['edit_user']="Home/edit_user";
 $route['edit_update_user']="Home/edit_update_user";
 $route['become_volunteer']="client_ctrl/become_volunteer";
 $route['add_volunteer']="client_ctrl/add_volunteer";
+$route['get_client_data']="API/get_client_data";
+$route['add_volunteer_api']="API/add_volunteer";
 
 
